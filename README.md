@@ -4,26 +4,30 @@ Welcome to my portfolio! Below you'll find links to some of the projects I've wo
 
 ## Projects
 
-### [Assembly Language Projects](https://github.com/username/Assembly-Language-Projects)
+### [Assembly Language Projects](https://github.com/hannahbrumley/Assembly-Language-Projects)
 A collection of assembly-language coursework and practice exercises.
 
-### [Grocery Store Inventory Search](https://github.com/username/Grocery-Store-Inventory-Search)
+### [Grocery Store Inventory Search](https://github.com/hannahbrumley/Grocery-Store-Inventory-Search)
 A web-based inventory search system with a PHP backend.
 
-### [CRUD Database Project](https://github.com/username/CRUD-Database-Project)
+### [CRUD Database Project](https://github.com/hannahbrumley/CRUD-Database-Project)
 A simple Python/Tkinter CRUD app for a library-style database.
 
-### [Library Management System](https://github.com/username/Library-Project)
+### [Library Management System](https://github.com/hannahbrumley/Library-Project)
 A console-based library management system written in C++.
 
-### [Airline Program](https://github.com/username/Airline-Program)
+### [Airline Program](https://github.com/hannahbrumley/Airline-Project)
 A program simulating an airline boarding and disembarking process.
 
-### [Data Structures](https://github.com/username/Data-Structures)
+### [Data Structures](https://github.com/hannahbrumley/Data-Structures)
 A project demonstrating various data structures such as binary search trees, hash tables, and more.
 
-### [Battleship Game](https://github.com/username/Battleship-Project)
+### [Battleship Game](https://github.com/hannahbrumley/Battleship-Project)
 A text-based battleship game where the player competes against a computer opponent.
+
+### [Wellness Wizards App (Senior Project)](https://github.com/hannahbrumley/Senior-Project)
+A .NET MAUI app prototype for managing cards and decks. The project is unfinished with some incomplete features and placeholder content.
+
 
 ## About Me
 
